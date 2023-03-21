@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManasaG283
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning Python and hope to learn so much more soon
-- 💞️ I’m looking to collaborate on nothing so far but hopefully soon...
+- 🌱 I’m currently learning machine learning in Python and R and hope to learn so much more soon.
+- 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me ...
 
 <!---
